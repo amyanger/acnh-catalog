@@ -1,0 +1,2928 @@
+[
+  {
+    "id": "ant00",
+    "name": "Cyrano",
+    "species": "Anteater",
+    "personality": "Cranky",
+    "sprite": "/sprites/villagers/ant00.png"
+  },
+  {
+    "id": "ant01",
+    "name": "Antonio",
+    "species": "Anteater",
+    "personality": "Jock",
+    "sprite": "/sprites/villagers/ant01.png"
+  },
+  {
+    "id": "ant02",
+    "name": "Pango",
+    "species": "Anteater",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/ant02.png"
+  },
+  {
+    "id": "ant03",
+    "name": "Anabelle",
+    "species": "Anteater",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/ant03.png"
+  },
+  {
+    "id": "ant05",
+    "name": "Zoe",
+    "species": "Anteater",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/ant05.png"
+  },
+  {
+    "id": "ant06",
+    "name": "Snooty",
+    "species": "Anteater",
+    "personality": "Snooty",
+    "sprite": "/sprites/villagers/ant06.png"
+  },
+  {
+    "id": "ant08",
+    "name": "Annalisa",
+    "species": "Anteater",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/ant08.png"
+  },
+  {
+    "id": "ant09",
+    "name": "Olaf",
+    "species": "Anteater",
+    "personality": "Smug",
+    "sprite": "/sprites/villagers/ant09.png"
+  },
+  {
+    "id": "bea00",
+    "name": "Teddy",
+    "species": "Bear",
+    "personality": "Jock",
+    "sprite": "/sprites/villagers/bea00.png"
+  },
+  {
+    "id": "bea01",
+    "name": "Pinky",
+    "species": "Bear",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/bea01.png"
+  },
+  {
+    "id": "bea02",
+    "name": "Curt",
+    "species": "Bear",
+    "personality": "Cranky",
+    "sprite": "/sprites/villagers/bea02.png"
+  },
+  {
+    "id": "bea03",
+    "name": "Chow",
+    "species": "Bear",
+    "personality": "Cranky",
+    "sprite": "/sprites/villagers/bea03.png"
+  },
+  {
+    "id": "bea05",
+    "name": "Nate",
+    "species": "Bear",
+    "personality": "Lazy",
+    "sprite": "/sprites/villagers/bea05.png"
+  },
+  {
+    "id": "bea06",
+    "name": "Groucho",
+    "species": "Bear",
+    "personality": "Cranky",
+    "sprite": "/sprites/villagers/bea06.png"
+  },
+  {
+    "id": "bea07",
+    "name": "Tutu",
+    "species": "Bear",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/bea07.png"
+  },
+  {
+    "id": "bea08",
+    "name": "Ursala",
+    "species": "Bear",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/bea08.png"
+  },
+  {
+    "id": "bea09",
+    "name": "Grizzly",
+    "species": "Bear",
+    "personality": "Cranky",
+    "sprite": "/sprites/villagers/bea09.png"
+  },
+  {
+    "id": "bea10",
+    "name": "Paula",
+    "species": "Bear",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/bea10.png"
+  },
+  {
+    "id": "bea11",
+    "name": "Ike",
+    "species": "Bear",
+    "personality": "Cranky",
+    "sprite": "/sprites/villagers/bea11.png"
+  },
+  {
+    "id": "bea12",
+    "name": "Charlise",
+    "species": "Bear",
+    "personality": "Uchi",
+    "sprite": "/sprites/villagers/bea12.png"
+  },
+  {
+    "id": "bea13",
+    "name": "Beardo",
+    "species": "Bear",
+    "personality": "Lazy",
+    "sprite": "/sprites/villagers/bea13.png"
+  },
+  {
+    "id": "bea14",
+    "name": "Klaus",
+    "species": "Bear",
+    "personality": "Smug",
+    "sprite": "/sprites/villagers/bea14.png"
+  },
+  {
+    "id": "bea15",
+    "name": "Megan",
+    "species": "Bear",
+    "personality": "Unknown",
+    "sprite": "/sprites/villagers/bea15.png"
+  },
+  {
+    "id": "brd00",
+    "name": "Jay",
+    "species": "Bird",
+    "personality": "Jock",
+    "sprite": "/sprites/villagers/brd00.png"
+  },
+  {
+    "id": "brd01",
+    "name": "Robin",
+    "species": "Bird",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/brd01.png"
+  },
+  {
+    "id": "brd02",
+    "name": "Anchovy",
+    "species": "Bird",
+    "personality": "Lazy",
+    "sprite": "/sprites/villagers/brd02.png"
+  },
+  {
+    "id": "brd03",
+    "name": "Twiggy",
+    "species": "Bird",
+    "personality": "Snooty",
+    "sprite": "/sprites/villagers/brd03.png"
+  },
+  {
+    "id": "brd04",
+    "name": "Jitters",
+    "species": "Bird",
+    "personality": "Cranky",
+    "sprite": "/sprites/villagers/brd04.png"
+  },
+  {
+    "id": "brd05",
+    "name": "Piper",
+    "species": "Bird",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/brd05.png"
+  },
+  {
+    "id": "brd06",
+    "name": "Admiral",
+    "species": "Bird",
+    "personality": "Jock",
+    "sprite": "/sprites/villagers/brd06.png"
+  },
+  {
+    "id": "brd08",
+    "name": "Midge",
+    "species": "Bird",
+    "personality": "Cranky",
+    "sprite": "/sprites/villagers/brd08.png"
+  },
+  {
+    "id": "brd09",
+    "name": "Ace",
+    "species": "Bird",
+    "personality": "Jock",
+    "sprite": "/sprites/villagers/brd09.png"
+  },
+  {
+    "id": "brd11",
+    "name": "Jacob",
+    "species": "Bird",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/brd11.png"
+  },
+  {
+    "id": "brd15",
+    "name": "Lucha",
+    "species": "Bird",
+    "personality": "Unknown",
+    "sprite": "/sprites/villagers/brd15.png"
+  },
+  {
+    "id": "brd16",
+    "name": "Jacques",
+    "species": "Bird",
+    "personality": "Unknown",
+    "sprite": "/sprites/villagers/brd16.png"
+  },
+  {
+    "id": "brd17",
+    "name": "Peck",
+    "species": "Bird",
+    "personality": "Unknown",
+    "sprite": "/sprites/villagers/brd17.png"
+  },
+  {
+    "id": "brd18",
+    "name": "Sparro",
+    "species": "Bird",
+    "personality": "Unknown",
+    "sprite": "/sprites/villagers/brd18.png"
+  },
+  {
+    "id": "brd20",
+    "name": "Tulin",
+    "species": "Bird",
+    "personality": "Unknown",
+    "sprite": "/sprites/villagers/brd20.png"
+  },
+  {
+    "id": "bul00",
+    "name": "Angus",
+    "species": "Bull",
+    "personality": "Lazy",
+    "sprite": "/sprites/villagers/bul00.png"
+  },
+  {
+    "id": "bul01",
+    "name": "Rodeo",
+    "species": "Bull",
+    "personality": "Cranky",
+    "sprite": "/sprites/villagers/bul01.png"
+  },
+  {
+    "id": "bul03",
+    "name": "Stu",
+    "species": "Bull",
+    "personality": "Cranky",
+    "sprite": "/sprites/villagers/bul03.png"
+  },
+  {
+    "id": "bul05",
+    "name": "T-Bone",
+    "species": "Bull",
+    "personality": "Jock",
+    "sprite": "/sprites/villagers/bul05.png"
+  },
+  {
+    "id": "bul07",
+    "name": "Coach",
+    "species": "Bull",
+    "personality": "Unknown",
+    "sprite": "/sprites/villagers/bul07.png"
+  },
+  {
+    "id": "bul08",
+    "name": "Vic",
+    "species": "Bull",
+    "personality": "Unknown",
+    "sprite": "/sprites/villagers/bul08.png"
+  },
+  {
+    "id": "cat00",
+    "name": "Bob",
+    "species": "Cat",
+    "personality": "Lazy",
+    "sprite": "/sprites/villagers/cat00.png"
+  },
+  {
+    "id": "cat01",
+    "name": "Mitzi",
+    "species": "Cat",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/cat01.png"
+  },
+  {
+    "id": "cat02",
+    "name": "Rosie",
+    "species": "Cat",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/cat02.png"
+  },
+  {
+    "id": "cat03",
+    "name": "Olivia",
+    "species": "Cat",
+    "personality": "Snooty",
+    "sprite": "/sprites/villagers/cat03.png"
+  },
+  {
+    "id": "cat04",
+    "name": "Kiki",
+    "species": "Cat",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/cat04.png"
+  },
+  {
+    "id": "cat05",
+    "name": "Tangy",
+    "species": "Cat",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/cat05.png"
+  },
+  {
+    "id": "cat06",
+    "name": "Punchy",
+    "species": "Cat",
+    "personality": "Lazy",
+    "sprite": "/sprites/villagers/cat06.png"
+  },
+  {
+    "id": "cat07",
+    "name": "Purrl",
+    "species": "Cat",
+    "personality": "Snooty",
+    "sprite": "/sprites/villagers/cat07.png"
+  },
+  {
+    "id": "cat08",
+    "name": "Moe",
+    "species": "Cat",
+    "personality": "Lazy",
+    "sprite": "/sprites/villagers/cat08.png"
+  },
+  {
+    "id": "cat09",
+    "name": "Kabuki",
+    "species": "Cat",
+    "personality": "Cranky",
+    "sprite": "/sprites/villagers/cat09.png"
+  },
+  {
+    "id": "cat10",
+    "name": "Kid Cat",
+    "species": "Cat",
+    "personality": "Cranky",
+    "sprite": "/sprites/villagers/cat10.png"
+  },
+  {
+    "id": "cat11",
+    "name": "Monique",
+    "species": "Cat",
+    "personality": "Snooty",
+    "sprite": "/sprites/villagers/cat11.png"
+  },
+  {
+    "id": "cat12",
+    "name": "Tabby",
+    "species": "Cat",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/cat12.png"
+  },
+  {
+    "id": "cat13",
+    "name": "Stinky",
+    "species": "Cat",
+    "personality": "Unknown",
+    "sprite": "/sprites/villagers/cat13.png"
+  },
+  {
+    "id": "cat14",
+    "name": "Kitty",
+    "species": "Cat",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/cat14.png"
+  },
+  {
+    "id": "cat15",
+    "name": "Tom",
+    "species": "Cat",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/cat15.png"
+  },
+  {
+    "id": "cat16",
+    "name": "Merry",
+    "species": "Cat",
+    "personality": "Unknown",
+    "sprite": "/sprites/villagers/cat16.png"
+  },
+  {
+    "id": "cat17",
+    "name": "Felicity",
+    "species": "Cat",
+    "personality": "Smug",
+    "sprite": "/sprites/villagers/cat17.png"
+  },
+  {
+    "id": "cat18",
+    "name": "Lolly",
+    "species": "Cat",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/cat18.png"
+  },
+  {
+    "id": "cat19",
+    "name": "Ankha",
+    "species": "Cat",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/cat19.png"
+  },
+  {
+    "id": "cat20",
+    "name": "Rudy",
+    "species": "Cat",
+    "personality": "Jock",
+    "sprite": "/sprites/villagers/cat20.png"
+  },
+  {
+    "id": "cat21",
+    "name": "Katt",
+    "species": "Cat",
+    "personality": "Unknown",
+    "sprite": "/sprites/villagers/cat21.png"
+  },
+  {
+    "id": "cat23",
+    "name": "Raymond",
+    "species": "Cat",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/cat23.png"
+  },
+  {
+    "id": "cbr00",
+    "name": "Bluebear",
+    "species": "Bear Cub",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/cbr00.png"
+  },
+  {
+    "id": "cbr01",
+    "name": "Maple",
+    "species": "Bear Cub",
+    "personality": "Snooty",
+    "sprite": "/sprites/villagers/cbr01.png"
+  },
+  {
+    "id": "cbr02",
+    "name": "Poncho",
+    "species": "Bear Cub",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/cbr02.png"
+  },
+  {
+    "id": "cbr03",
+    "name": "Pudge",
+    "species": "Bear Cub",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/cbr03.png"
+  },
+  {
+    "id": "cbr04",
+    "name": "Kody",
+    "species": "Bear Cub",
+    "personality": "Snooty",
+    "sprite": "/sprites/villagers/cbr04.png"
+  },
+  {
+    "id": "cbr05",
+    "name": "Stitches",
+    "species": "Bear Cub",
+    "personality": "Lazy",
+    "sprite": "/sprites/villagers/cbr05.png"
+  },
+  {
+    "id": "cbr06",
+    "name": "Vladimir",
+    "species": "Bear Cub",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/cbr06.png"
+  },
+  {
+    "id": "cbr07",
+    "name": "Murphy",
+    "species": "Bear Cub",
+    "personality": "Unknown",
+    "sprite": "/sprites/villagers/cbr07.png"
+  },
+  {
+    "id": "cbr09",
+    "name": "Olive",
+    "species": "Bear Cub",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/cbr09.png"
+  },
+  {
+    "id": "cbr10",
+    "name": "Cheri",
+    "species": "Bear Cub",
+    "personality": "Cranky",
+    "sprite": "/sprites/villagers/cbr10.png"
+  },
+  {
+    "id": "cbr13",
+    "name": "June",
+    "species": "Bear Cub",
+    "personality": "Jock",
+    "sprite": "/sprites/villagers/cbr13.png"
+  },
+  {
+    "id": "cbr14",
+    "name": "Pekoe",
+    "species": "Bear Cub",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/cbr14.png"
+  },
+  {
+    "id": "cbr15",
+    "name": "Chester",
+    "species": "Bear Cub",
+    "personality": "Uchi",
+    "sprite": "/sprites/villagers/cbr15.png"
+  },
+  {
+    "id": "cbr16",
+    "name": "Barold",
+    "species": "Bear Cub",
+    "personality": "Unknown",
+    "sprite": "/sprites/villagers/cbr16.png"
+  },
+  {
+    "id": "cbr17",
+    "name": "Tammy",
+    "species": "Bear Cub",
+    "personality": "Unknown",
+    "sprite": "/sprites/villagers/cbr17.png"
+  },
+  {
+    "id": "cbr18",
+    "name": "Marty",
+    "species": "Bear Cub",
+    "personality": "Unknown",
+    "sprite": "/sprites/villagers/cbr18.png"
+  },
+  {
+    "id": "cbr19",
+    "name": "Judy",
+    "species": "Bear Cub",
+    "personality": "Unknown",
+    "sprite": "/sprites/villagers/cbr19.png"
+  },
+  {
+    "id": "chn00",
+    "name": "Goose",
+    "species": "Chicken",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/chn00.png"
+  },
+  {
+    "id": "chn01",
+    "name": "Benedict",
+    "species": "Chicken",
+    "personality": "Snooty",
+    "sprite": "/sprites/villagers/chn01.png"
+  },
+  {
+    "id": "chn02",
+    "name": "Egbert",
+    "species": "Chicken",
+    "personality": "Jock",
+    "sprite": "/sprites/villagers/chn02.png"
+  },
+  {
+    "id": "chn05",
+    "name": "Ava",
+    "species": "Chicken",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/chn05.png"
+  },
+  {
+    "id": "chn09",
+    "name": "Becky",
+    "species": "Chicken",
+    "personality": "Smug",
+    "sprite": "/sprites/villagers/chn09.png"
+  },
+  {
+    "id": "chn10",
+    "name": "Plucky",
+    "species": "Chicken",
+    "personality": "Unknown",
+    "sprite": "/sprites/villagers/chn10.png"
+  },
+  {
+    "id": "chn11",
+    "name": "Knox",
+    "species": "Chicken",
+    "personality": "Unknown",
+    "sprite": "/sprites/villagers/chn11.png"
+  },
+  {
+    "id": "chn12",
+    "name": "Broffina",
+    "species": "Chicken",
+    "personality": "Unknown",
+    "sprite": "/sprites/villagers/chn12.png"
+  },
+  {
+    "id": "chn13",
+    "name": "Ken",
+    "species": "Chicken",
+    "personality": "Unknown",
+    "sprite": "/sprites/villagers/chn13.png"
+  },
+  {
+    "id": "cow00",
+    "name": "Patty",
+    "species": "Cow",
+    "personality": "Snooty",
+    "sprite": "/sprites/villagers/cow00.png"
+  },
+  {
+    "id": "cow01",
+    "name": "Tipper",
+    "species": "Cow",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/cow01.png"
+  },
+  {
+    "id": "cow06",
+    "name": "Norma",
+    "species": "Cow",
+    "personality": "Unknown",
+    "sprite": "/sprites/villagers/cow06.png"
+  },
+  {
+    "id": "cow07",
+    "name": "Naomi",
+    "species": "Cow",
+    "personality": "Unknown",
+    "sprite": "/sprites/villagers/cow07.png"
+  },
+  {
+    "id": "crd00",
+    "name": "Alfonso",
+    "species": "Crocodile",
+    "personality": "Lazy",
+    "sprite": "/sprites/villagers/crd00.png"
+  },
+  {
+    "id": "crd01",
+    "name": "Alli",
+    "species": "Crocodile",
+    "personality": "Jock",
+    "sprite": "/sprites/villagers/crd01.png"
+  },
+  {
+    "id": "crd02",
+    "name": "Boots",
+    "species": "Crocodile",
+    "personality": "Cranky",
+    "sprite": "/sprites/villagers/crd02.png"
+  },
+  {
+    "id": "crd04",
+    "name": "Del",
+    "species": "Crocodile",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/crd04.png"
+  },
+  {
+    "id": "crd05",
+    "name": "Roswell",
+    "species": "Crocodile",
+    "personality": "Cranky",
+    "sprite": "/sprites/villagers/crd05.png"
+  },
+  {
+    "id": "crd06",
+    "name": "Sly",
+    "species": "Crocodile",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/crd06.png"
+  },
+  {
+    "id": "crd07",
+    "name": "Gayle",
+    "species": "Crocodile",
+    "personality": "Unknown",
+    "sprite": "/sprites/villagers/crd07.png"
+  },
+  {
+    "id": "crd08",
+    "name": "Drago",
+    "species": "Crocodile",
+    "personality": "Unknown",
+    "sprite": "/sprites/villagers/crd08.png"
+  },
+  {
+    "id": "der00",
+    "name": "Fauna",
+    "species": "Deer",
+    "personality": "Jock",
+    "sprite": "/sprites/villagers/der00.png"
+  },
+  {
+    "id": "der01",
+    "name": "Bam",
+    "species": "Deer",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/der01.png"
+  },
+  {
+    "id": "der02",
+    "name": "Zell",
+    "species": "Deer",
+    "personality": "Snooty",
+    "sprite": "/sprites/villagers/der02.png"
+  },
+  {
+    "id": "der03",
+    "name": "Bruce",
+    "species": "Deer",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/der03.png"
+  },
+  {
+    "id": "der04",
+    "name": "Deirdre",
+    "species": "Deer",
+    "personality": "Snooty",
+    "sprite": "/sprites/villagers/der04.png"
+  },
+  {
+    "id": "der05",
+    "name": "Lopez",
+    "species": "Deer",
+    "personality": "Lazy",
+    "sprite": "/sprites/villagers/der05.png"
+  },
+  {
+    "id": "der06",
+    "name": "Fuchsia",
+    "species": "Deer",
+    "personality": "Cranky",
+    "sprite": "/sprites/villagers/der06.png"
+  },
+  {
+    "id": "der07",
+    "name": "Beau",
+    "species": "Deer",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/der07.png"
+  },
+  {
+    "id": "der08",
+    "name": "Diana",
+    "species": "Deer",
+    "personality": "Smug",
+    "sprite": "/sprites/villagers/der08.png"
+  },
+  {
+    "id": "der09",
+    "name": "Erik",
+    "species": "Deer",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/der09.png"
+  },
+  {
+    "id": "der10",
+    "name": "Chelsea",
+    "species": "Deer",
+    "personality": "Jock",
+    "sprite": "/sprites/villagers/der10.png"
+  },
+  {
+    "id": "der11",
+    "name": "Shino",
+    "species": "Deer",
+    "personality": "Unknown",
+    "sprite": "/sprites/villagers/der11.png"
+  },
+  {
+    "id": "der12",
+    "name": "Mineru",
+    "species": "Deer",
+    "personality": "Unknown",
+    "sprite": "/sprites/villagers/der12.png"
+  },
+  {
+    "id": "dog00",
+    "name": "Goldie",
+    "species": "Dog",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/dog00.png"
+  },
+  {
+    "id": "dog01",
+    "name": "Butch",
+    "species": "Dog",
+    "personality": "Lazy",
+    "sprite": "/sprites/villagers/dog01.png"
+  },
+  {
+    "id": "dog02",
+    "name": "Lucky",
+    "species": "Dog",
+    "personality": "Jock",
+    "sprite": "/sprites/villagers/dog02.png"
+  },
+  {
+    "id": "dog03",
+    "name": "Biskit",
+    "species": "Dog",
+    "personality": "Lazy",
+    "sprite": "/sprites/villagers/dog03.png"
+  },
+  {
+    "id": "dog04",
+    "name": "Bones",
+    "species": "Dog",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/dog04.png"
+  },
+  {
+    "id": "dog05",
+    "name": "Portia",
+    "species": "Dog",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/dog05.png"
+  },
+  {
+    "id": "dog06",
+    "name": "Walker",
+    "species": "Dog",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/dog06.png"
+  },
+  {
+    "id": "dog07",
+    "name": "Daisy",
+    "species": "Dog",
+    "personality": "Cranky",
+    "sprite": "/sprites/villagers/dog07.png"
+  },
+  {
+    "id": "dog08",
+    "name": "Cookie",
+    "species": "Dog",
+    "personality": "Snooty",
+    "sprite": "/sprites/villagers/dog08.png"
+  },
+  {
+    "id": "dog09",
+    "name": "Maddie",
+    "species": "Dog",
+    "personality": "Cranky",
+    "sprite": "/sprites/villagers/dog09.png"
+  },
+  {
+    "id": "dog10",
+    "name": "Bea",
+    "species": "Dog",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/dog10.png"
+  },
+  {
+    "id": "dog11",
+    "name": "Frett",
+    "species": "Dog",
+    "personality": "Snooty",
+    "sprite": "/sprites/villagers/dog11.png"
+  },
+  {
+    "id": "dog14",
+    "name": "Mac",
+    "species": "Dog",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/dog14.png"
+  },
+  {
+    "id": "dog15",
+    "name": "Marcel",
+    "species": "Dog",
+    "personality": "Jock",
+    "sprite": "/sprites/villagers/dog15.png"
+  },
+  {
+    "id": "dog16",
+    "name": "Benjamin",
+    "species": "Dog",
+    "personality": "Smug",
+    "sprite": "/sprites/villagers/dog16.png"
+  },
+  {
+    "id": "dog17",
+    "name": "Cherry",
+    "species": "Dog",
+    "personality": "Uchi",
+    "sprite": "/sprites/villagers/dog17.png"
+  },
+  {
+    "id": "dog18",
+    "name": "Shep",
+    "species": "Dog",
+    "personality": "Unknown",
+    "sprite": "/sprites/villagers/dog18.png"
+  },
+  {
+    "id": "duk00",
+    "name": "Bill",
+    "species": "Duck",
+    "personality": "Jock",
+    "sprite": "/sprites/villagers/duk00.png"
+  },
+  {
+    "id": "duk01",
+    "name": "Joey",
+    "species": "Duck",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/duk01.png"
+  },
+  {
+    "id": "duk02",
+    "name": "Pate",
+    "species": "Duck",
+    "personality": "Snooty",
+    "sprite": "/sprites/villagers/duk02.png"
+  },
+  {
+    "id": "duk03",
+    "name": "Maelle",
+    "species": "Duck",
+    "personality": "Lazy",
+    "sprite": "/sprites/villagers/duk03.png"
+  },
+  {
+    "id": "duk04",
+    "name": "Deena",
+    "species": "Duck",
+    "personality": "Cranky",
+    "sprite": "/sprites/villagers/duk04.png"
+  },
+  {
+    "id": "duk05",
+    "name": "Pompom",
+    "species": "Duck",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/duk05.png"
+  },
+  {
+    "id": "duk06",
+    "name": "Mallary",
+    "species": "Duck",
+    "personality": "Jock",
+    "sprite": "/sprites/villagers/duk06.png"
+  },
+  {
+    "id": "duk07",
+    "name": "Freckles",
+    "species": "Duck",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/duk07.png"
+  },
+  {
+    "id": "duk08",
+    "name": "Derwin",
+    "species": "Duck",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/duk08.png"
+  },
+  {
+    "id": "duk09",
+    "name": "Drake",
+    "species": "Duck",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/duk09.png"
+  },
+  {
+    "id": "duk10",
+    "name": "Scoot",
+    "species": "Duck",
+    "personality": "Snooty",
+    "sprite": "/sprites/villagers/duk10.png"
+  },
+  {
+    "id": "duk11",
+    "name": "Weber",
+    "species": "Duck",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/duk11.png"
+  },
+  {
+    "id": "duk12",
+    "name": "Miranda",
+    "species": "Duck",
+    "personality": "Lazy",
+    "sprite": "/sprites/villagers/duk12.png"
+  },
+  {
+    "id": "duk13",
+    "name": "Ketchup",
+    "species": "Duck",
+    "personality": "Cranky",
+    "sprite": "/sprites/villagers/duk13.png"
+  },
+  {
+    "id": "duk15",
+    "name": "Gloria",
+    "species": "Duck",
+    "personality": "Jock",
+    "sprite": "/sprites/villagers/duk15.png"
+  },
+  {
+    "id": "duk16",
+    "name": "Molly",
+    "species": "Duck",
+    "personality": "Smug",
+    "sprite": "/sprites/villagers/duk16.png"
+  },
+  {
+    "id": "duk17",
+    "name": "Quillson",
+    "species": "Duck",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/duk17.png"
+  },
+  {
+    "id": "elp00",
+    "name": "Opal",
+    "species": "Elephant",
+    "personality": "Jock",
+    "sprite": "/sprites/villagers/elp00.png"
+  },
+  {
+    "id": "elp01",
+    "name": "Dizzy",
+    "species": "Elephant",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/elp01.png"
+  },
+  {
+    "id": "elp02",
+    "name": "Big Top",
+    "species": "Elephant",
+    "personality": "Cranky",
+    "sprite": "/sprites/villagers/elp02.png"
+  },
+  {
+    "id": "elp03",
+    "name": "Eloise",
+    "species": "Elephant",
+    "personality": "Lazy",
+    "sprite": "/sprites/villagers/elp03.png"
+  },
+  {
+    "id": "elp04",
+    "name": "Margie",
+    "species": "Elephant",
+    "personality": "Snooty",
+    "sprite": "/sprites/villagers/elp04.png"
+  },
+  {
+    "id": "elp05",
+    "name": "Paolo",
+    "species": "Elephant",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/elp05.png"
+  },
+  {
+    "id": "elp06",
+    "name": "Axel",
+    "species": "Elephant",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/elp06.png"
+  },
+  {
+    "id": "elp07",
+    "name": "Ellie",
+    "species": "Elephant",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/elp07.png"
+  },
+  {
+    "id": "elp09",
+    "name": "Tucker",
+    "species": "Elephant",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/elp09.png"
+  },
+  {
+    "id": "elp10",
+    "name": "Tia",
+    "species": "Elephant",
+    "personality": "Uchi",
+    "sprite": "/sprites/villagers/elp10.png"
+  },
+  {
+    "id": "elp11",
+    "name": "Chai",
+    "species": "Elephant",
+    "personality": "Smug",
+    "sprite": "/sprites/villagers/elp11.png"
+  },
+  {
+    "id": "elp12",
+    "name": "Cyd",
+    "species": "Elephant",
+    "personality": "Unknown",
+    "sprite": "/sprites/villagers/elp12.png"
+  },
+  {
+    "id": "flg00",
+    "name": "Lily",
+    "species": "Frog",
+    "personality": "Jock",
+    "sprite": "/sprites/villagers/flg00.png"
+  },
+  {
+    "id": "flg01",
+    "name": "Ribbot",
+    "species": "Frog",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/flg01.png"
+  },
+  {
+    "id": "flg02",
+    "name": "Frobert",
+    "species": "Frog",
+    "personality": "Cranky",
+    "sprite": "/sprites/villagers/flg02.png"
+  },
+  {
+    "id": "flg03",
+    "name": "Camofrog",
+    "species": "Frog",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/flg03.png"
+  },
+  {
+    "id": "flg04",
+    "name": "Drift",
+    "species": "Frog",
+    "personality": "Lazy",
+    "sprite": "/sprites/villagers/flg04.png"
+  },
+  {
+    "id": "flg05",
+    "name": "Wart Jr.",
+    "species": "Frog",
+    "personality": "Jock",
+    "sprite": "/sprites/villagers/flg05.png"
+  },
+  {
+    "id": "flg06",
+    "name": "Puddles",
+    "species": "Frog",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/flg06.png"
+  },
+  {
+    "id": "flg07",
+    "name": "Jeremiah",
+    "species": "Frog",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/flg07.png"
+  },
+  {
+    "id": "flg09",
+    "name": "Tad",
+    "species": "Frog",
+    "personality": "Snooty",
+    "sprite": "/sprites/villagers/flg09.png"
+  },
+  {
+    "id": "flg10",
+    "name": "Cousteau",
+    "species": "Frog",
+    "personality": "Lazy",
+    "sprite": "/sprites/villagers/flg10.png"
+  },
+  {
+    "id": "flg11",
+    "name": "Huck",
+    "species": "Frog",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/flg11.png"
+  },
+  {
+    "id": "flg12",
+    "name": "Prince",
+    "species": "Frog",
+    "personality": "Cranky",
+    "sprite": "/sprites/villagers/flg12.png"
+  },
+  {
+    "id": "flg13",
+    "name": "Jambette",
+    "species": "Frog",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/flg13.png"
+  },
+  {
+    "id": "flg15",
+    "name": "Raddle",
+    "species": "Frog",
+    "personality": "Uchi",
+    "sprite": "/sprites/villagers/flg15.png"
+  },
+  {
+    "id": "flg16",
+    "name": "Gigi",
+    "species": "Frog",
+    "personality": "Jock",
+    "sprite": "/sprites/villagers/flg16.png"
+  },
+  {
+    "id": "flg17",
+    "name": "Croque",
+    "species": "Frog",
+    "personality": "Cranky",
+    "sprite": "/sprites/villagers/flg17.png"
+  },
+  {
+    "id": "flg18",
+    "name": "Diva",
+    "species": "Frog",
+    "personality": "Lazy",
+    "sprite": "/sprites/villagers/flg18.png"
+  },
+  {
+    "id": "flg19",
+    "name": "Henry",
+    "species": "Frog",
+    "personality": "Unknown",
+    "sprite": "/sprites/villagers/flg19.png"
+  },
+  {
+    "id": "goa00",
+    "name": "Chevre",
+    "species": "Goat",
+    "personality": "Lazy",
+    "sprite": "/sprites/villagers/goa00.png"
+  },
+  {
+    "id": "goa01",
+    "name": "Nan",
+    "species": "Goat",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/goa01.png"
+  },
+  {
+    "id": "goa02",
+    "name": "Billy",
+    "species": "Goat",
+    "personality": "Cranky",
+    "sprite": "/sprites/villagers/goa02.png"
+  },
+  {
+    "id": "goa04",
+    "name": "Gruff",
+    "species": "Goat",
+    "personality": "Jock",
+    "sprite": "/sprites/villagers/goa04.png"
+  },
+  {
+    "id": "goa06",
+    "name": "Velma",
+    "species": "Goat",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/goa06.png"
+  },
+  {
+    "id": "goa07",
+    "name": "Kidd",
+    "species": "Goat",
+    "personality": "Uchi",
+    "sprite": "/sprites/villagers/goa07.png"
+  },
+  {
+    "id": "goa08",
+    "name": "Pashmina",
+    "species": "Goat",
+    "personality": "Smug",
+    "sprite": "/sprites/villagers/goa08.png"
+  },
+  {
+    "id": "goa09",
+    "name": "Sherb",
+    "species": "Goat",
+    "personality": "Unknown",
+    "sprite": "/sprites/villagers/goa09.png"
+  },
+  {
+    "id": "gor00",
+    "name": "Cesar",
+    "species": "Gorilla",
+    "personality": "Cranky",
+    "sprite": "/sprites/villagers/gor00.png"
+  },
+  {
+    "id": "gor01",
+    "name": "Peewee",
+    "species": "Gorilla",
+    "personality": "Lazy",
+    "sprite": "/sprites/villagers/gor01.png"
+  },
+  {
+    "id": "gor02",
+    "name": "Boone",
+    "species": "Gorilla",
+    "personality": "Snooty",
+    "sprite": "/sprites/villagers/gor02.png"
+  },
+  {
+    "id": "gor04",
+    "name": "Louie",
+    "species": "Gorilla",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/gor04.png"
+  },
+  {
+    "id": "gor05",
+    "name": "Boyd",
+    "species": "Gorilla",
+    "personality": "Jock",
+    "sprite": "/sprites/villagers/gor05.png"
+  },
+  {
+    "id": "gor07",
+    "name": "Violet",
+    "species": "Gorilla",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/gor07.png"
+  },
+  {
+    "id": "gor08",
+    "name": "Al",
+    "species": "Gorilla",
+    "personality": "Uchi",
+    "sprite": "/sprites/villagers/gor08.png"
+  },
+  {
+    "id": "gor09",
+    "name": "Rocket",
+    "species": "Gorilla",
+    "personality": "Smug",
+    "sprite": "/sprites/villagers/gor09.png"
+  },
+  {
+    "id": "gor10",
+    "name": "Hans",
+    "species": "Gorilla",
+    "personality": "Unknown",
+    "sprite": "/sprites/villagers/gor10.png"
+  },
+  {
+    "id": "gor11",
+    "name": "Rilla",
+    "species": "Gorilla",
+    "personality": "Unknown",
+    "sprite": "/sprites/villagers/gor11.png"
+  },
+  {
+    "id": "ham00",
+    "name": "Hamlet",
+    "species": "Hamster",
+    "personality": "Jock",
+    "sprite": "/sprites/villagers/ham00.png"
+  },
+  {
+    "id": "ham01",
+    "name": "Apple",
+    "species": "Hamster",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/ham01.png"
+  },
+  {
+    "id": "ham02",
+    "name": "Graham",
+    "species": "Hamster",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/ham02.png"
+  },
+  {
+    "id": "ham03",
+    "name": "Rodney",
+    "species": "Hamster",
+    "personality": "Lazy",
+    "sprite": "/sprites/villagers/ham03.png"
+  },
+  {
+    "id": "ham04",
+    "name": "Soleil",
+    "species": "Hamster",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/ham04.png"
+  },
+  {
+    "id": "ham05",
+    "name": "Clay",
+    "species": "Hamster",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/ham05.png"
+  },
+  {
+    "id": "ham06",
+    "name": "Flurry",
+    "species": "Hamster",
+    "personality": "Jock",
+    "sprite": "/sprites/villagers/ham06.png"
+  },
+  {
+    "id": "ham07",
+    "name": "Hamphrey",
+    "species": "Hamster",
+    "personality": "Snooty",
+    "sprite": "/sprites/villagers/ham07.png"
+  },
+  {
+    "id": "ham09",
+    "name": "Marlo",
+    "species": "Hamster",
+    "personality": "Unknown",
+    "sprite": "/sprites/villagers/ham09.png"
+  },
+  {
+    "id": "hip00",
+    "name": "Rocco",
+    "species": "Hippo",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/hip00.png"
+  },
+  {
+    "id": "hip02",
+    "name": "Bubbles",
+    "species": "Hippo",
+    "personality": "Cranky",
+    "sprite": "/sprites/villagers/hip02.png"
+  },
+  {
+    "id": "hip03",
+    "name": "Bertha",
+    "species": "Hippo",
+    "personality": "Snooty",
+    "sprite": "/sprites/villagers/hip03.png"
+  },
+  {
+    "id": "hip04",
+    "name": "Biff",
+    "species": "Hippo",
+    "personality": "Lazy",
+    "sprite": "/sprites/villagers/hip04.png"
+  },
+  {
+    "id": "hip05",
+    "name": "Bitty",
+    "species": "Hippo",
+    "personality": "Jock",
+    "sprite": "/sprites/villagers/hip05.png"
+  },
+  {
+    "id": "hip08",
+    "name": "Harry",
+    "species": "Hippo",
+    "personality": "Uchi",
+    "sprite": "/sprites/villagers/hip08.png"
+  },
+  {
+    "id": "hip09",
+    "name": "Hippeux",
+    "species": "Hippo",
+    "personality": "Unknown",
+    "sprite": "/sprites/villagers/hip09.png"
+  },
+  {
+    "id": "hrs00",
+    "name": "Buck",
+    "species": "Horse",
+    "personality": "Snooty",
+    "sprite": "/sprites/villagers/hrs00.png"
+  },
+  {
+    "id": "hrs01",
+    "name": "Victoria",
+    "species": "Horse",
+    "personality": "Jock",
+    "sprite": "/sprites/villagers/hrs01.png"
+  },
+  {
+    "id": "hrs02",
+    "name": "Savannah",
+    "species": "Horse",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/hrs02.png"
+  },
+  {
+    "id": "hrs03",
+    "name": "Elmer",
+    "species": "Horse",
+    "personality": "Lazy",
+    "sprite": "/sprites/villagers/hrs03.png"
+  },
+  {
+    "id": "hrs04",
+    "name": "Roscoe",
+    "species": "Horse",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/hrs04.png"
+  },
+  {
+    "id": "hrs05",
+    "name": "Winnie",
+    "species": "Horse",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/hrs05.png"
+  },
+  {
+    "id": "hrs06",
+    "name": "Ed",
+    "species": "Horse",
+    "personality": "Cranky",
+    "sprite": "/sprites/villagers/hrs06.png"
+  },
+  {
+    "id": "hrs07",
+    "name": "Cleo",
+    "species": "Horse",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/hrs07.png"
+  },
+  {
+    "id": "hrs08",
+    "name": "Peaches",
+    "species": "Horse",
+    "personality": "Jock",
+    "sprite": "/sprites/villagers/hrs08.png"
+  },
+  {
+    "id": "hrs09",
+    "name": "Annalise",
+    "species": "Horse",
+    "personality": "Snooty",
+    "sprite": "/sprites/villagers/hrs09.png"
+  },
+  {
+    "id": "hrs10",
+    "name": "Clyde",
+    "species": "Horse",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/hrs10.png"
+  },
+  {
+    "id": "hrs11",
+    "name": "Colton",
+    "species": "Horse",
+    "personality": "Lazy",
+    "sprite": "/sprites/villagers/hrs11.png"
+  },
+  {
+    "id": "hrs12",
+    "name": "Papi",
+    "species": "Horse",
+    "personality": "Cranky",
+    "sprite": "/sprites/villagers/hrs12.png"
+  },
+  {
+    "id": "hrs13",
+    "name": "Julian",
+    "species": "Horse",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/hrs13.png"
+  },
+  {
+    "id": "hrs16",
+    "name": "Reneigh",
+    "species": "Horse",
+    "personality": "Unknown",
+    "sprite": "/sprites/villagers/hrs16.png"
+  },
+  {
+    "id": "kal00",
+    "name": "Yuka",
+    "species": "Koala",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/kal00.png"
+  },
+  {
+    "id": "kal01",
+    "name": "Alice",
+    "species": "Koala",
+    "personality": "Snooty",
+    "sprite": "/sprites/villagers/kal01.png"
+  },
+  {
+    "id": "kal02",
+    "name": "Melba",
+    "species": "Koala",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/kal02.png"
+  },
+  {
+    "id": "kal03",
+    "name": "Sydney",
+    "species": "Koala",
+    "personality": "Lazy",
+    "sprite": "/sprites/villagers/kal03.png"
+  },
+  {
+    "id": "kal04",
+    "name": "Gonzo",
+    "species": "Koala",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/kal04.png"
+  },
+  {
+    "id": "kal05",
+    "name": "Ozzie",
+    "species": "Koala",
+    "personality": "Cranky",
+    "sprite": "/sprites/villagers/kal05.png"
+  },
+  {
+    "id": "kal07",
+    "name": "Faith",
+    "species": "Koala",
+    "personality": "Snooty",
+    "sprite": "/sprites/villagers/kal07.png"
+  },
+  {
+    "id": "kal08",
+    "name": "Canberra",
+    "species": "Koala",
+    "personality": "Uchi",
+    "sprite": "/sprites/villagers/kal08.png"
+  },
+  {
+    "id": "kal09",
+    "name": "Lyman",
+    "species": "Koala",
+    "personality": "Smug",
+    "sprite": "/sprites/villagers/kal09.png"
+  },
+  {
+    "id": "kal10",
+    "name": "Eugene",
+    "species": "Koala",
+    "personality": "Unknown",
+    "sprite": "/sprites/villagers/kal10.png"
+  },
+  {
+    "id": "kgr00",
+    "name": "Kitt",
+    "species": "Kangaroo",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/kgr00.png"
+  },
+  {
+    "id": "kgr01",
+    "name": "Mathilda",
+    "species": "Kangaroo",
+    "personality": "Snooty",
+    "sprite": "/sprites/villagers/kgr01.png"
+  },
+  {
+    "id": "kgr02",
+    "name": "Carrie",
+    "species": "Kangaroo",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/kgr02.png"
+  },
+  {
+    "id": "kgr05",
+    "name": "Astrid",
+    "species": "Kangaroo",
+    "personality": "Cranky",
+    "sprite": "/sprites/villagers/kgr05.png"
+  },
+  {
+    "id": "kgr06",
+    "name": "Sylvia",
+    "species": "Kangaroo",
+    "personality": "Uchi",
+    "sprite": "/sprites/villagers/kgr06.png"
+  },
+  {
+    "id": "kgr08",
+    "name": "Walt",
+    "species": "Kangaroo",
+    "personality": "Smug",
+    "sprite": "/sprites/villagers/kgr08.png"
+  },
+  {
+    "id": "kgr09",
+    "name": "Rooney",
+    "species": "Kangaroo",
+    "personality": "Unknown",
+    "sprite": "/sprites/villagers/kgr09.png"
+  },
+  {
+    "id": "kgr10",
+    "name": "Marcie",
+    "species": "Kangaroo",
+    "personality": "Unknown",
+    "sprite": "/sprites/villagers/kgr10.png"
+  },
+  {
+    "id": "lon00",
+    "name": "Bud",
+    "species": "Lion",
+    "personality": "Lazy",
+    "sprite": "/sprites/villagers/lon00.png"
+  },
+  {
+    "id": "lon01",
+    "name": "Elvis",
+    "species": "Lion",
+    "personality": "Snooty",
+    "sprite": "/sprites/villagers/lon01.png"
+  },
+  {
+    "id": "lon02",
+    "name": "Rex",
+    "species": "Lion",
+    "personality": "Cranky",
+    "sprite": "/sprites/villagers/lon02.png"
+  },
+  {
+    "id": "lon04",
+    "name": "Leopold",
+    "species": "Lion",
+    "personality": "Jock",
+    "sprite": "/sprites/villagers/lon04.png"
+  },
+  {
+    "id": "lon06",
+    "name": "Mott",
+    "species": "Lion",
+    "personality": "Jock",
+    "sprite": "/sprites/villagers/lon06.png"
+  },
+  {
+    "id": "lon07",
+    "name": "Rory",
+    "species": "Lion",
+    "personality": "Uchi",
+    "sprite": "/sprites/villagers/lon07.png"
+  },
+  {
+    "id": "lon08",
+    "name": "Lionel",
+    "species": "Lion",
+    "personality": "Smug",
+    "sprite": "/sprites/villagers/lon08.png"
+  },
+  {
+    "id": "mnk01",
+    "name": "Nana",
+    "species": "Monkey",
+    "personality": "Jock",
+    "sprite": "/sprites/villagers/mnk01.png"
+  },
+  {
+    "id": "mnk02",
+    "name": "Simon",
+    "species": "Monkey",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/mnk02.png"
+  },
+  {
+    "id": "mnk03",
+    "name": "Tammi",
+    "species": "Monkey",
+    "personality": "Cranky",
+    "sprite": "/sprites/villagers/mnk03.png"
+  },
+  {
+    "id": "mnk04",
+    "name": "Monty",
+    "species": "Monkey",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/mnk04.png"
+  },
+  {
+    "id": "mnk05",
+    "name": "Elise",
+    "species": "Monkey",
+    "personality": "Snooty",
+    "sprite": "/sprites/villagers/mnk05.png"
+  },
+  {
+    "id": "mnk06",
+    "name": "Flip",
+    "species": "Monkey",
+    "personality": "Uchi",
+    "sprite": "/sprites/villagers/mnk06.png"
+  },
+  {
+    "id": "mnk07",
+    "name": "Shari",
+    "species": "Monkey",
+    "personality": "Smug",
+    "sprite": "/sprites/villagers/mnk07.png"
+  },
+  {
+    "id": "mnk08",
+    "name": "Deli",
+    "species": "Monkey",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/mnk08.png"
+  },
+  {
+    "id": "mnk09",
+    "name": "Tiansheng",
+    "species": "Monkey",
+    "personality": "Unknown",
+    "sprite": "/sprites/villagers/mnk09.png"
+  },
+  {
+    "id": "mus00",
+    "name": "Dora",
+    "species": "Mouse",
+    "personality": "Snooty",
+    "sprite": "/sprites/villagers/mus00.png"
+  },
+  {
+    "id": "mus01",
+    "name": "Limberg",
+    "species": "Mouse",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/mus01.png"
+  },
+  {
+    "id": "mus02",
+    "name": "Bella",
+    "species": "Mouse",
+    "personality": "Jock",
+    "sprite": "/sprites/villagers/mus02.png"
+  },
+  {
+    "id": "mus03",
+    "name": "Bree",
+    "species": "Mouse",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/mus03.png"
+  },
+  {
+    "id": "mus04",
+    "name": "Samson",
+    "species": "Mouse",
+    "personality": "Lazy",
+    "sprite": "/sprites/villagers/mus04.png"
+  },
+  {
+    "id": "mus05",
+    "name": "Rod",
+    "species": "Mouse",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/mus05.png"
+  },
+  {
+    "id": "mus08",
+    "name": "Candi",
+    "species": "Mouse",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/mus08.png"
+  },
+  {
+    "id": "mus09",
+    "name": "Rizzo",
+    "species": "Mouse",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/mus09.png"
+  },
+  {
+    "id": "mus10",
+    "name": "Anicotti",
+    "species": "Mouse",
+    "personality": "Lazy",
+    "sprite": "/sprites/villagers/mus10.png"
+  },
+  {
+    "id": "mus12",
+    "name": "Broccolo",
+    "species": "Mouse",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/mus12.png"
+  },
+  {
+    "id": "mus14",
+    "name": "Moose",
+    "species": "Mouse",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/mus14.png"
+  },
+  {
+    "id": "mus15",
+    "name": "Bettina",
+    "species": "Mouse",
+    "personality": "Uchi",
+    "sprite": "/sprites/villagers/mus15.png"
+  },
+  {
+    "id": "mus16",
+    "name": "Greta",
+    "species": "Mouse",
+    "personality": "Smug",
+    "sprite": "/sprites/villagers/mus16.png"
+  },
+  {
+    "id": "mus17",
+    "name": "Penelope",
+    "species": "Mouse",
+    "personality": "Jock",
+    "sprite": "/sprites/villagers/mus17.png"
+  },
+  {
+    "id": "mus18",
+    "name": "Chadder",
+    "species": "Mouse",
+    "personality": "Unknown",
+    "sprite": "/sprites/villagers/mus18.png"
+  },
+  {
+    "id": "mus19",
+    "name": "Petri",
+    "species": "Mouse",
+    "personality": "Unknown",
+    "sprite": "/sprites/villagers/mus19.png"
+  },
+  {
+    "id": "ocp00",
+    "name": "Octavian",
+    "species": "Octopus",
+    "personality": "Cranky",
+    "sprite": "/sprites/villagers/ocp00.png"
+  },
+  {
+    "id": "ocp01",
+    "name": "Marina",
+    "species": "Octopus",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/ocp01.png"
+  },
+  {
+    "id": "ocp02",
+    "name": "Zucker",
+    "species": "Octopus",
+    "personality": "Lazy",
+    "sprite": "/sprites/villagers/ocp02.png"
+  },
+  {
+    "id": "ocp04",
+    "name": "Cephalobot",
+    "species": "Octopus",
+    "personality": "Unknown",
+    "sprite": "/sprites/villagers/ocp04.png"
+  },
+  {
+    "id": "ost00",
+    "name": "Queenie",
+    "species": "Ostrich",
+    "personality": "Snooty",
+    "sprite": "/sprites/villagers/ost00.png"
+  },
+  {
+    "id": "ost01",
+    "name": "Gladys",
+    "species": "Ostrich",
+    "personality": "Cranky",
+    "sprite": "/sprites/villagers/ost01.png"
+  },
+  {
+    "id": "ost02",
+    "name": "Sandy",
+    "species": "Ostrich",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/ost02.png"
+  },
+  {
+    "id": "ost03",
+    "name": "Sprocket",
+    "species": "Ostrich",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/ost03.png"
+  },
+  {
+    "id": "ost04",
+    "name": "Rio",
+    "species": "Ostrich",
+    "personality": "Snooty",
+    "sprite": "/sprites/villagers/ost04.png"
+  },
+  {
+    "id": "ost05",
+    "name": "Julia",
+    "species": "Ostrich",
+    "personality": "Jock",
+    "sprite": "/sprites/villagers/ost05.png"
+  },
+  {
+    "id": "ost06",
+    "name": "Cranston",
+    "species": "Ostrich",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/ost06.png"
+  },
+  {
+    "id": "ost07",
+    "name": "Phil",
+    "species": "Ostrich",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/ost07.png"
+  },
+  {
+    "id": "ost08",
+    "name": "Blanche",
+    "species": "Ostrich",
+    "personality": "Lazy",
+    "sprite": "/sprites/villagers/ost08.png"
+  },
+  {
+    "id": "ost09",
+    "name": "Flora",
+    "species": "Ostrich",
+    "personality": "Uchi",
+    "sprite": "/sprites/villagers/ost09.png"
+  },
+  {
+    "id": "ost10",
+    "name": "Phoebe",
+    "species": "Ostrich",
+    "personality": "Smug",
+    "sprite": "/sprites/villagers/ost10.png"
+  },
+  {
+    "id": "pbr00",
+    "name": "Apollo",
+    "species": "Eagle",
+    "personality": "Cranky",
+    "sprite": "/sprites/villagers/pbr00.png"
+  },
+  {
+    "id": "pbr01",
+    "name": "Amelia",
+    "species": "Eagle",
+    "personality": "Snooty",
+    "sprite": "/sprites/villagers/pbr01.png"
+  },
+  {
+    "id": "pbr02",
+    "name": "Pierce",
+    "species": "Eagle",
+    "personality": "Jock",
+    "sprite": "/sprites/villagers/pbr02.png"
+  },
+  {
+    "id": "pbr03",
+    "name": "Buzz",
+    "species": "Eagle",
+    "personality": "Cranky",
+    "sprite": "/sprites/villagers/pbr03.png"
+  },
+  {
+    "id": "pbr05",
+    "name": "Avery",
+    "species": "Eagle",
+    "personality": "Cranky",
+    "sprite": "/sprites/villagers/pbr05.png"
+  },
+  {
+    "id": "pbr06",
+    "name": "Frank",
+    "species": "Eagle",
+    "personality": "Cranky",
+    "sprite": "/sprites/villagers/pbr06.png"
+  },
+  {
+    "id": "pbr07",
+    "name": "Sterling",
+    "species": "Eagle",
+    "personality": "Jock",
+    "sprite": "/sprites/villagers/pbr07.png"
+  },
+  {
+    "id": "pbr08",
+    "name": "Keaton",
+    "species": "Eagle",
+    "personality": "Smug",
+    "sprite": "/sprites/villagers/pbr08.png"
+  },
+  {
+    "id": "pbr09",
+    "name": "Celia",
+    "species": "Eagle",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/pbr09.png"
+  },
+  {
+    "id": "pbr10",
+    "name": "Quinn",
+    "species": "Eagle",
+    "personality": "Snooty",
+    "sprite": "/sprites/villagers/pbr10.png"
+  },
+  {
+    "id": "pgn00",
+    "name": "Aurora",
+    "species": "Penguin",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/pgn00.png"
+  },
+  {
+    "id": "pgn01",
+    "name": "Roald",
+    "species": "Penguin",
+    "personality": "Jock",
+    "sprite": "/sprites/villagers/pgn01.png"
+  },
+  {
+    "id": "pgn02",
+    "name": "Cube",
+    "species": "Penguin",
+    "personality": "Lazy",
+    "sprite": "/sprites/villagers/pgn02.png"
+  },
+  {
+    "id": "pgn03",
+    "name": "Hopper",
+    "species": "Penguin",
+    "personality": "Cranky",
+    "sprite": "/sprites/villagers/pgn03.png"
+  },
+  {
+    "id": "pgn04",
+    "name": "Friga",
+    "species": "Penguin",
+    "personality": "Snooty",
+    "sprite": "/sprites/villagers/pgn04.png"
+  },
+  {
+    "id": "pgn05",
+    "name": "Gwen",
+    "species": "Penguin",
+    "personality": "Snooty",
+    "sprite": "/sprites/villagers/pgn05.png"
+  },
+  {
+    "id": "pgn06",
+    "name": "Puck",
+    "species": "Penguin",
+    "personality": "Lazy",
+    "sprite": "/sprites/villagers/pgn06.png"
+  },
+  {
+    "id": "pgn07",
+    "name": "Chabwick",
+    "species": "Penguin",
+    "personality": "Lazy",
+    "sprite": "/sprites/villagers/pgn07.png"
+  },
+  {
+    "id": "pgn09",
+    "name": "Wade",
+    "species": "Penguin",
+    "personality": "Lazy",
+    "sprite": "/sprites/villagers/pgn09.png"
+  },
+  {
+    "id": "pgn10",
+    "name": "Boomer",
+    "species": "Penguin",
+    "personality": "Lazy",
+    "sprite": "/sprites/villagers/pgn10.png"
+  },
+  {
+    "id": "pgn11",
+    "name": "Iggly",
+    "species": "Penguin",
+    "personality": "Jock",
+    "sprite": "/sprites/villagers/pgn11.png"
+  },
+  {
+    "id": "pgn12",
+    "name": "Tex",
+    "species": "Penguin",
+    "personality": "Smug",
+    "sprite": "/sprites/villagers/pgn12.png"
+  },
+  {
+    "id": "pgn13",
+    "name": "Flo",
+    "species": "Penguin",
+    "personality": "Uchi",
+    "sprite": "/sprites/villagers/pgn13.png"
+  },
+  {
+    "id": "pgn14",
+    "name": "Sprinkle",
+    "species": "Penguin",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/pgn14.png"
+  },
+  {
+    "id": "pig00",
+    "name": "Curly",
+    "species": "Pig",
+    "personality": "Jock",
+    "sprite": "/sprites/villagers/pig00.png"
+  },
+  {
+    "id": "pig01",
+    "name": "Truffles",
+    "species": "Pig",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/pig01.png"
+  },
+  {
+    "id": "pig02",
+    "name": "Rasher",
+    "species": "Pig",
+    "personality": "Cranky",
+    "sprite": "/sprites/villagers/pig02.png"
+  },
+  {
+    "id": "pig03",
+    "name": "Hugh",
+    "species": "Pig",
+    "personality": "Lazy",
+    "sprite": "/sprites/villagers/pig03.png"
+  },
+  {
+    "id": "pig04",
+    "name": "Lucy",
+    "species": "Pig",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/pig04.png"
+  },
+  {
+    "id": "pig05",
+    "name": "Spork",
+    "species": "Pig",
+    "personality": "Lazy",
+    "sprite": "/sprites/villagers/pig05.png"
+  },
+  {
+    "id": "pig08",
+    "name": "Cobb",
+    "species": "Pig",
+    "personality": "Jock",
+    "sprite": "/sprites/villagers/pig08.png"
+  },
+  {
+    "id": "pig09",
+    "name": "Boris",
+    "species": "Pig",
+    "personality": "Cranky",
+    "sprite": "/sprites/villagers/pig09.png"
+  },
+  {
+    "id": "pig10",
+    "name": "Maggie",
+    "species": "Pig",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/pig10.png"
+  },
+  {
+    "id": "pig11",
+    "name": "Peggy",
+    "species": "Pig",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/pig11.png"
+  },
+  {
+    "id": "pig13",
+    "name": "Gala",
+    "species": "Pig",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/pig13.png"
+  },
+  {
+    "id": "pig14",
+    "name": "Chops",
+    "species": "Pig",
+    "personality": "Smug",
+    "sprite": "/sprites/villagers/pig14.png"
+  },
+  {
+    "id": "pig15",
+    "name": "Kevin",
+    "species": "Pig",
+    "personality": "Jock",
+    "sprite": "/sprites/villagers/pig15.png"
+  },
+  {
+    "id": "pig16",
+    "name": "Pancetti",
+    "species": "Pig",
+    "personality": "Snooty",
+    "sprite": "/sprites/villagers/pig16.png"
+  },
+  {
+    "id": "pig17",
+    "name": "Agnes",
+    "species": "Pig",
+    "personality": "Uchi",
+    "sprite": "/sprites/villagers/pig17.png"
+  },
+  {
+    "id": "rbt00",
+    "name": "Bunnie",
+    "species": "Rabbit",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/rbt00.png"
+  },
+  {
+    "id": "rbt01",
+    "name": "Dotty",
+    "species": "Rabbit",
+    "personality": "Snooty",
+    "sprite": "/sprites/villagers/rbt01.png"
+  },
+  {
+    "id": "rbt02",
+    "name": "Coco",
+    "species": "Rabbit",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/rbt02.png"
+  },
+  {
+    "id": "rbt03",
+    "name": "Snake",
+    "species": "Rabbit",
+    "personality": "Lazy",
+    "sprite": "/sprites/villagers/rbt03.png"
+  },
+  {
+    "id": "rbt04",
+    "name": "Gaston",
+    "species": "Rabbit",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/rbt04.png"
+  },
+  {
+    "id": "rbt05",
+    "name": "Gabi",
+    "species": "Rabbit",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/rbt05.png"
+  },
+  {
+    "id": "rbt06",
+    "name": "Pippy",
+    "species": "Rabbit",
+    "personality": "Cranky",
+    "sprite": "/sprites/villagers/rbt06.png"
+  },
+  {
+    "id": "rbt07",
+    "name": "Tiffany",
+    "species": "Rabbit",
+    "personality": "Jock",
+    "sprite": "/sprites/villagers/rbt07.png"
+  },
+  {
+    "id": "rbt08",
+    "name": "Genji",
+    "species": "Rabbit",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/rbt08.png"
+  },
+  {
+    "id": "rbt09",
+    "name": "Ruby",
+    "species": "Rabbit",
+    "personality": "Snooty",
+    "sprite": "/sprites/villagers/rbt09.png"
+  },
+  {
+    "id": "rbt10",
+    "name": "Doc",
+    "species": "Rabbit",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/rbt10.png"
+  },
+  {
+    "id": "rbt11",
+    "name": "Claude",
+    "species": "Rabbit",
+    "personality": "Lazy",
+    "sprite": "/sprites/villagers/rbt11.png"
+  },
+  {
+    "id": "rbt12",
+    "name": "Francine",
+    "species": "Rabbit",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/rbt12.png"
+  },
+  {
+    "id": "rbt13",
+    "name": "Chrissy",
+    "species": "Rabbit",
+    "personality": "Cranky",
+    "sprite": "/sprites/villagers/rbt13.png"
+  },
+  {
+    "id": "rbt14",
+    "name": "Hopkins",
+    "species": "Rabbit",
+    "personality": "Jock",
+    "sprite": "/sprites/villagers/rbt14.png"
+  },
+  {
+    "id": "rbt15",
+    "name": "O'Hare",
+    "species": "Rabbit",
+    "personality": "Snooty",
+    "sprite": "/sprites/villagers/rbt15.png"
+  },
+  {
+    "id": "rbt16",
+    "name": "Carmen",
+    "species": "Rabbit",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/rbt16.png"
+  },
+  {
+    "id": "rbt17",
+    "name": "Bonbon",
+    "species": "Rabbit",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/rbt17.png"
+  },
+  {
+    "id": "rbt18",
+    "name": "Cole",
+    "species": "Rabbit",
+    "personality": "Uchi",
+    "sprite": "/sprites/villagers/rbt18.png"
+  },
+  {
+    "id": "rbt19",
+    "name": "Mira",
+    "species": "Rabbit",
+    "personality": "Smug",
+    "sprite": "/sprites/villagers/rbt19.png"
+  },
+  {
+    "id": "rbt20",
+    "name": "Toby",
+    "species": "Rabbit",
+    "personality": "Jock",
+    "sprite": "/sprites/villagers/rbt20.png"
+  },
+  {
+    "id": "rbt21",
+    "name": "Sasha",
+    "species": "Rabbit",
+    "personality": "Unknown",
+    "sprite": "/sprites/villagers/rbt21.png"
+  },
+  {
+    "id": "rhn00",
+    "name": "Tank",
+    "species": "Rhino",
+    "personality": "Cranky",
+    "sprite": "/sprites/villagers/rhn00.png"
+  },
+  {
+    "id": "rhn01",
+    "name": "Rhonda",
+    "species": "Rhino",
+    "personality": "Snooty",
+    "sprite": "/sprites/villagers/rhn01.png"
+  },
+  {
+    "id": "rhn02",
+    "name": "Spike",
+    "species": "Rhino",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/rhn02.png"
+  },
+  {
+    "id": "rhn04",
+    "name": "Hornsby",
+    "species": "Rhino",
+    "personality": "Jock",
+    "sprite": "/sprites/villagers/rhn04.png"
+  },
+  {
+    "id": "rhn05",
+    "name": "Azalea",
+    "species": "Rhino",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/rhn05.png"
+  },
+  {
+    "id": "rhn07",
+    "name": "Merengue",
+    "species": "Rhino",
+    "personality": "Unknown",
+    "sprite": "/sprites/villagers/rhn07.png"
+  },
+  {
+    "id": "rhn08",
+    "name": "Renée",
+    "species": "Rhino",
+    "personality": "Unknown",
+    "sprite": "/sprites/villagers/rhn08.png"
+  },
+  {
+    "id": "shp00",
+    "name": "Vesta",
+    "species": "Sheep",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/shp00.png"
+  },
+  {
+    "id": "shp01",
+    "name": "Baabara",
+    "species": "Sheep",
+    "personality": "Snooty",
+    "sprite": "/sprites/villagers/shp01.png"
+  },
+  {
+    "id": "shp02",
+    "name": "Eunice",
+    "species": "Sheep",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/shp02.png"
+  },
+  {
+    "id": "shp03",
+    "name": "Stella",
+    "species": "Sheep",
+    "personality": "Jock",
+    "sprite": "/sprites/villagers/shp03.png"
+  },
+  {
+    "id": "shp04",
+    "name": "Cashmere",
+    "species": "Sheep",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/shp04.png"
+  },
+  {
+    "id": "shp07",
+    "name": "Willow",
+    "species": "Sheep",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/shp07.png"
+  },
+  {
+    "id": "shp08",
+    "name": "Curlos",
+    "species": "Sheep",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/shp08.png"
+  },
+  {
+    "id": "shp09",
+    "name": "Wendy",
+    "species": "Sheep",
+    "personality": "Cranky",
+    "sprite": "/sprites/villagers/shp09.png"
+  },
+  {
+    "id": "shp10",
+    "name": "Timbra",
+    "species": "Sheep",
+    "personality": "Lazy",
+    "sprite": "/sprites/villagers/shp10.png"
+  },
+  {
+    "id": "shp11",
+    "name": "Frita",
+    "species": "Sheep",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/shp11.png"
+  },
+  {
+    "id": "shp12",
+    "name": "Muffy",
+    "species": "Sheep",
+    "personality": "Uchi",
+    "sprite": "/sprites/villagers/shp12.png"
+  },
+  {
+    "id": "shp13",
+    "name": "Pietro",
+    "species": "Sheep",
+    "personality": "Smug",
+    "sprite": "/sprites/villagers/shp13.png"
+  },
+  {
+    "id": "shp14",
+    "name": "Étoile",
+    "species": "Sheep",
+    "personality": "Unknown",
+    "sprite": "/sprites/villagers/shp14.png"
+  },
+  {
+    "id": "shp15",
+    "name": "Dom",
+    "species": "Sheep",
+    "personality": "Unknown",
+    "sprite": "/sprites/villagers/shp15.png"
+  },
+  {
+    "id": "squ00",
+    "name": "Peanut",
+    "species": "Squirrel",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/squ00.png"
+  },
+  {
+    "id": "squ01",
+    "name": "Blaire",
+    "species": "Squirrel",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/squ01.png"
+  },
+  {
+    "id": "squ02",
+    "name": "Filbert",
+    "species": "Squirrel",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/squ02.png"
+  },
+  {
+    "id": "squ03",
+    "name": "Pecan",
+    "species": "Squirrel",
+    "personality": "Snooty",
+    "sprite": "/sprites/villagers/squ03.png"
+  },
+  {
+    "id": "squ04",
+    "name": "Nibbles",
+    "species": "Squirrel",
+    "personality": "Cranky",
+    "sprite": "/sprites/villagers/squ04.png"
+  },
+  {
+    "id": "squ05",
+    "name": "Agent S",
+    "species": "Squirrel",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/squ05.png"
+  },
+  {
+    "id": "squ06",
+    "name": "Caroline",
+    "species": "Squirrel",
+    "personality": "Lazy",
+    "sprite": "/sprites/villagers/squ06.png"
+  },
+  {
+    "id": "squ07",
+    "name": "Sally",
+    "species": "Squirrel",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/squ07.png"
+  },
+  {
+    "id": "squ08",
+    "name": "Static",
+    "species": "Squirrel",
+    "personality": "Jock",
+    "sprite": "/sprites/villagers/squ08.png"
+  },
+  {
+    "id": "squ09",
+    "name": "Mint",
+    "species": "Squirrel",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/squ09.png"
+  },
+  {
+    "id": "squ10",
+    "name": "Ricky",
+    "species": "Squirrel",
+    "personality": "Jock",
+    "sprite": "/sprites/villagers/squ10.png"
+  },
+  {
+    "id": "squ11",
+    "name": "Cally",
+    "species": "Squirrel",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/squ11.png"
+  },
+  {
+    "id": "squ13",
+    "name": "Tasha",
+    "species": "Squirrel",
+    "personality": "Snooty",
+    "sprite": "/sprites/villagers/squ13.png"
+  },
+  {
+    "id": "squ14",
+    "name": "Sylvana",
+    "species": "Squirrel",
+    "personality": "Lazy",
+    "sprite": "/sprites/villagers/squ14.png"
+  },
+  {
+    "id": "squ15",
+    "name": "Poppy",
+    "species": "Squirrel",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/squ15.png"
+  },
+  {
+    "id": "squ16",
+    "name": "Sheldon",
+    "species": "Squirrel",
+    "personality": "Uchi",
+    "sprite": "/sprites/villagers/squ16.png"
+  },
+  {
+    "id": "squ17",
+    "name": "Marshal",
+    "species": "Squirrel",
+    "personality": "Smug",
+    "sprite": "/sprites/villagers/squ17.png"
+  },
+  {
+    "id": "squ18",
+    "name": "Hazel",
+    "species": "Squirrel",
+    "personality": "Jock",
+    "sprite": "/sprites/villagers/squ18.png"
+  },
+  {
+    "id": "squ19",
+    "name": "Cece",
+    "species": "Squirrel",
+    "personality": "Unknown",
+    "sprite": "/sprites/villagers/squ19.png"
+  },
+  {
+    "id": "squ20",
+    "name": "Viché",
+    "species": "Squirrel",
+    "personality": "Unknown",
+    "sprite": "/sprites/villagers/squ20.png"
+  },
+  {
+    "id": "squ21",
+    "name": "Ione",
+    "species": "Squirrel",
+    "personality": "Unknown",
+    "sprite": "/sprites/villagers/squ21.png"
+  },
+  {
+    "id": "tig00",
+    "name": "Rolf",
+    "species": "Tiger",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/tig00.png"
+  },
+  {
+    "id": "tig01",
+    "name": "Rowan",
+    "species": "Tiger",
+    "personality": "Snooty",
+    "sprite": "/sprites/villagers/tig01.png"
+  },
+  {
+    "id": "tig02",
+    "name": "Tybalt",
+    "species": "Tiger",
+    "personality": "Lazy",
+    "sprite": "/sprites/villagers/tig02.png"
+  },
+  {
+    "id": "tig03",
+    "name": "Bangle",
+    "species": "Tiger",
+    "personality": "Jock",
+    "sprite": "/sprites/villagers/tig03.png"
+  },
+  {
+    "id": "tig04",
+    "name": "Leonardo",
+    "species": "Tiger",
+    "personality": "Cranky",
+    "sprite": "/sprites/villagers/tig04.png"
+  },
+  {
+    "id": "tig05",
+    "name": "Claudia",
+    "species": "Tiger",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/tig05.png"
+  },
+  {
+    "id": "tig06",
+    "name": "Bianca",
+    "species": "Tiger",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/tig06.png"
+  },
+  {
+    "id": "wol00",
+    "name": "Chief",
+    "species": "Wolf",
+    "personality": "Cranky",
+    "sprite": "/sprites/villagers/wol00.png"
+  },
+  {
+    "id": "wol01",
+    "name": "Lobo",
+    "species": "Wolf",
+    "personality": "Snooty",
+    "sprite": "/sprites/villagers/wol01.png"
+  },
+  {
+    "id": "wol02",
+    "name": "Wolfgang",
+    "species": "Wolf",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/wol02.png"
+  },
+  {
+    "id": "wol03",
+    "name": "Whitney",
+    "species": "Wolf",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/wol03.png"
+  },
+  {
+    "id": "wol04",
+    "name": "Dobie",
+    "species": "Wolf",
+    "personality": "Jock",
+    "sprite": "/sprites/villagers/wol04.png"
+  },
+  {
+    "id": "wol05",
+    "name": "Freya",
+    "species": "Wolf",
+    "personality": "Cranky",
+    "sprite": "/sprites/villagers/wol05.png"
+  },
+  {
+    "id": "wol06",
+    "name": "Fang",
+    "species": "Wolf",
+    "personality": "Normal",
+    "sprite": "/sprites/villagers/wol06.png"
+  },
+  {
+    "id": "wol08",
+    "name": "Vivian",
+    "species": "Wolf",
+    "personality": "Peppy",
+    "sprite": "/sprites/villagers/wol08.png"
+  },
+  {
+    "id": "wol09",
+    "name": "Skye",
+    "species": "Wolf",
+    "personality": "Lazy",
+    "sprite": "/sprites/villagers/wol09.png"
+  },
+  {
+    "id": "wol10",
+    "name": "Kyle",
+    "species": "Wolf",
+    "personality": "Uchi",
+    "sprite": "/sprites/villagers/wol10.png"
+  },
+  {
+    "id": "wol12",
+    "name": "Audie",
+    "species": "Wolf",
+    "personality": "Unknown",
+    "sprite": "/sprites/villagers/wol12.png"
+  },
+  {
+    "id": "mnk",
+    "name": "Porter",
+    "species": "Monkey",
+    "personality": "Unknown",
+    "sprite": "/sprites/villagers/mnk.png"
+  }
+]

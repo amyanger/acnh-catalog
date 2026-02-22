@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+:root {
+  --color-acnh-green: #78c257;
+  --color-acnh-green-dark: #5a9e3e;
+  --color-acnh-cream: #faf8ef;
+  --color-acnh-brown: #8b6914;
+  --color-acnh-blue: #7ecbea;
+  --color-acnh-yellow: #f5e642;
+}
+
+body {
+  background-color: var(--color-acnh-cream);
+  color: #3d3225;
+}
