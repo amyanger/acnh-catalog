@@ -14,11 +14,12 @@ import * as path from "node:path";
 // Configuration
 // ---------------------------------------------------------------------------
 
-const API_KEY = process.env.NOOKIPEDIA_API_KEY;
-if (!API_KEY) {
+const API_KEY_VALUE = process.env.NOOKIPEDIA_API_KEY;
+if (!API_KEY_VALUE) {
   console.error("Error: NOOKIPEDIA_API_KEY not set. Add it to .env file.");
   process.exit(1);
 }
+const API_KEY: string = API_KEY_VALUE;
 const BASE_URL = "https://api.nookipedia.com";
 const FETCH_TIMEOUT_MS = 60_000; // 60 seconds — clothing endpoint is large
 const DELAY_BETWEEN_REQUESTS_MS = 1_000; // 1 second between API calls
