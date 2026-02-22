@@ -16,6 +16,7 @@ npm-debug.log*
 # misc
 .DS_Store
 *.pem
+CLAUDE.md
 
 # IDE
 .idea/
